@@ -1,8 +1,8 @@
-# class Dog
-#
-#
-# end
+class Dog
 
-lassie = dog.new
-snoopy = dog.new
-fido = dog.new
+
+end
+
+# lassie = dog.new
+# snoopy = dog.new
+# fido = dog.new
